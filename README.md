@@ -23,6 +23,7 @@ Guitar player, bonsai grower, stars hunter.
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturOle&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ArturOle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArturOle&layout=compact&title_color=A569BD&text_color=daf7dc&bg_color=151515)](https://github.com/ArturOle/github-readme-stats)
+
 
 ⭐️ From [ArturOle](https://github.com/ArturOle)
