@@ -15,7 +15,7 @@ Guitar player, bonsai grower, stars hunter.
 - 🛢 &nbsp; SQLite | Firebase 
 - 🔬 &nbsp; Heuristic Algorithms | Clustering | Neural Networks | Image Classificaiton
 - 🔧 &nbsp; Visual Studio code | Git | Jupyter | Keras
-- 🧰 &nbsp; PyQT | wxWidgets | FastAPI | Docker | WSL
+- 🧰 &nbsp; PyQT | wxWidgets | Flask | FastAPI | Docker | WSL
 
 <br>
 
