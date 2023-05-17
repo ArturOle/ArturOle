@@ -4,7 +4,7 @@
 
 <h3> About Me 👾 </h3>
 
-Third year student of Silesian University of Technology, AEI faculty.
+First year master degree Data Science student of Silesian University of Technology, AEI faculty.
 Passionate about artificial intelligance and non-conventional problem solving.
 Guitar player, bonsai grower, stars hunter.
 
