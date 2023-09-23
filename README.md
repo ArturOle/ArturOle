@@ -4,17 +4,15 @@
 
 <h3> About Me 👾 </h3>
 
-First year master degree Data Science student of Silesian University of Technology, AEI faculty.
-Passionate about artificial intelligance and non-conventional problem solving.
-Guitar player, bonsai grower, stars hunter.
-
+First-year master's degree Data Science student of Silesian University of Technology, AEI faculty.
+Passionate about artificial intelligence and non-conventional problem-solving.
 
 <h3> Tech Stack</h3>
 
 - 👨‍💻 &nbsp; Python | Julia | C++ | SQL 
-- 🛢 &nbsp; SQLite | Firebase 
-- 🔬 &nbsp; Heuristic Algorithms | Clustering | Neural Networks | Image Classificaiton
-- 🔧 &nbsp; Visual Studio code | Git | Jupyter | Keras
+- 🛢 &nbsp; SQLite | Firebase | Qdreant
+- 🔬 &nbsp; Heuristic Algorithms | Clustering | Neural Networks | Image Classificaiton | LLM | Transformers
+- 🔧 &nbsp; Visual Studio code | Git | Jupyter | Keras | Langchain | PyTorch
 - 🧰 &nbsp; PyQT | wxWidgets | Flask | FastAPI | Docker | WSL
 
 <br>
