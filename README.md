@@ -4,7 +4,7 @@
 
 <h3> About Me 👾 </h3>
 
-First-year master's degree Data Science student of Silesian University of Technology, AEI faculty.
+Second-year master's degree Data Science student of Silesian University of Technology, AEI faculty.
 Passionate about artificial intelligence and non-conventional problem-solving.
 
 <h3> Tech Stack</h3>
