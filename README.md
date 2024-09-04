@@ -4,7 +4,7 @@
 
 <h3> About Me 👾 </h3>
 
-Master of Data Science student from Silesian University of Technology, AEI faculty.
+Master of Data Science from Silesian University of Technology, AEI faculty.
 Passionate about artificial intelligence and non-conventional problem-solving.
 
 <h3> Tech Stack </h3>
