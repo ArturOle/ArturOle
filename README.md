@@ -15,7 +15,4 @@ Passionate about artificial intelligence and non-conventional problem-solving.
 - 🔧 &nbsp; Visual Studio code | Git | JupyterNB | Keras | Langchain | PyTorch | Docker
 - 🧰 &nbsp; PyQT | wxWidgets | Kivy | FastAPI | Docker | WSL
 
-<img src="https://myreadme.vercel.app/api/embed/ArturOle?panels=toplanguages,commitgraph" alt="reimaginedreadme" />
-
-
 ⭐️ From [ArturOle](https://github.com/ArturOle)
